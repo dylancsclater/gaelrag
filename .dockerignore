@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest, coverage, and other test artifacts
+.cache
+.coverage
+.pytest_cache/
+htmlcov/
+*.pytest_cache
+
+# Environment files
+.env
+.venv
+env/
+venv/
+ENV/
+*.pyc
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Git and version control
+.git/
+.gitignore
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+
+# JupyterLab workspace files
+.jupyterlab-workspaces/
+
+# Python environments
+pyvenv.cfg
+
