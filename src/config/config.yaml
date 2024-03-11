@@ -1,0 +1,6 @@
+project:
+    name: Gael
+    root_dir: /Users/dylansclater/my_projects/llamaindex/
+pdf_url: https://deriv.nls.uk/dcn6/8223/82234454.6.pdf
+data:
+    inbound_path: data/inbound
